@@ -1,0 +1,11 @@
+{
+    "366250" : {
+        "Name" : "John Doe",
+        "Year" : 0,
+        "ClassChoices" : {
+            "English" : ["ap_lang", "ap_lit"],
+            "SocialStudies" : ["world", "ap_euro"]
+        }
+
+    }
+}

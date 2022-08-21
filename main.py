@@ -1,12 +1,11 @@
+from student_form import StudentForm
 from courses import English, SocialStudies
-from course import Course
 
 def on_start():
     balls = jaws = 0
 
     print(balls, jaws)
-    english = English("default", "default")
-    social_studies = SocialStudies("default", "default")
+    test_form = StudentForm(StudentForm.FRESHMAN, )
 
 
 
